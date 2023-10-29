@@ -1,1 +1,3 @@
 # odin-recipies
+In this project I tried to implement what i learnt form the html foundation course on TOP.
+I created an index.html file then created a recipe directory which had different recipes including there html files and images. I could have added various features like target attribute for <a> tag and Dimensions for images, but wanted to finish this as quickly as possible. Maybe i will add them later. Tried to write some meaningful commit messages but i guess will have to work on that. Surely learnt something:)
