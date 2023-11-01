@@ -1,0 +1,16 @@
+li{
+    border: 2px;
+    border-color: blue;
+    background-color: #4fada6;
+    color: black;
+
+}
+#heading{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: blueviolet;
+    border-style: groove;
+    border:3px;
+    border-color: bisque;
+}
