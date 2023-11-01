@@ -1,5 +1,5 @@
 li{
-    border: 2px;
+    border: 20px;
     border-color: blue;
     background-color: #4fada6;
     color: black;
@@ -11,6 +11,6 @@ li{
     font-weight: bold;
     color: blueviolet;
     border-style: groove;
-    border:3px;
+    border:20px;
     border-color: bisque;
 }
