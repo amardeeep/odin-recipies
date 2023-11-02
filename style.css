@@ -1,16 +1,19 @@
-li{
-    border: 20px;
-    border-color: blue;
-    background-color: #4fada6;
-    color: black;
-
-}
 #heading{
+    border: 4px solid #663db3b2;
+    margin: 30px;
+    padding: 20px;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
-    color: blueviolet;
-    border-style: groove;
-    border:20px;
-    border-color: bisque;
+    color: rgba(165, 165, 49, 0.848);
+        
+}
+.list{
+    display:flexbox;
+    justify-content: space-evenly;
+    border: 3px solid #e455dde5 ;
+    padding: 15px;
+    margin:20px;
+    
+
 }
